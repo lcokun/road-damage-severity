@@ -1,5 +1,13 @@
 # Model weights
+*.pt
 outputs/**/*.pt
+
+# Scratch/test images
+jalanMY.jpg
+jalanMY2.png
+
+# YOLO data (large, generated)
+yolo_data/
 
 # Data directories
 data_extracted/
