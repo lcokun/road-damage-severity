@@ -1,0 +1,6 @@
+names:
+- damage
+nc: 1
+path: /home/mel/studies/Y2S1 (Archived)/Computer-Vision/PMA/yolo_data
+train: images/train
+val: images/val

@@ -1,0 +1,23 @@
+# Model weights
+outputs/**/*.pt
+
+# Data directories
+data_extracted/
+data_processed/
+data_processed_bbox/
+rdd-dataset/
+
+# Report / personal docs
+report/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/

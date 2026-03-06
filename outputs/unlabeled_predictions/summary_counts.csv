@@ -1,0 +1,10 @@
+split,country,pred_class,count
+test1,Czech,normal,349
+test1,India,normal,969
+test1,Japan,normal,1195
+test1,Japan,severe,118
+test2,Czech,normal,360
+test2,India,normal,990
+test2,Japan,minor,1
+test2,Japan,normal,1198
+test2,Japan,severe,115

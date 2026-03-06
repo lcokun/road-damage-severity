@@ -1,0 +1,19 @@
+Images evaluated : 3157
+YOLO conf thresh : 0.25
+Severe gate      : none
+
+              precision    recall  f1-score   support
+
+       minor     0.6758    0.4917    0.5692       602
+      normal     0.7939    0.9063    0.8464      1313
+      severe     0.8377    0.8229    0.8302      1242
+
+    accuracy                         0.7944      3157
+   macro avg     0.7691    0.7403    0.7486      3157
+weighted avg     0.7886    0.7944    0.7872      3157
+
+Confusion matrix (rows=true, cols=pred):
+             minor    normal    severe
+minor          296       173       133
+normal          58      1190        65
+severe          84       136      1022
